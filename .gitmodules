@@ -608,11 +608,11 @@
 	branch = .
 [submodule "ironic"]
 	path = ironic
-	url = https://review.openstack.org/openstack/ironic.git
+	url = git@github.com:pyrrrat/ironic.git
 	branch = .
 [submodule "ironic-python-agent"]
 	path = ironic-python-agent
-	url = https://review.openstack.org/openstack/ironic-python-agent.git
+	url = git@github.com:pyrrrat/ironic-python-agent.git
 	branch = .
 [submodule "ironic-specs"]
 	path = ironic-specs
@@ -660,7 +660,7 @@
 	branch = .
 [submodule "nova"]
 	path = nova
-	url = https://review.openstack.org/openstack/nova.git
+	url = git@github.com:pyrrrat/nova.git
 	branch = .
 [submodule "nova-specs"]
 	path = nova-specs
@@ -824,7 +824,7 @@
 	branch = .
 [submodule "python-ironicclient"]
 	path = python-ironicclient
-	url = https://review.openstack.org/openstack/python-ironicclient.git
+	url = git@github.com:pyrrrat/python-ironicclient.git
 	branch = .
 [submodule "python-keystoneclient"]
 	path = python-keystoneclient
